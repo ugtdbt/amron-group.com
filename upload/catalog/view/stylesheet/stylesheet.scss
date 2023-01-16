@@ -37,7 +37,7 @@ h6 {
 }
 
 a {
-  color: #23a1d1;
+  color: #2cc37d;
   text-decoration: none;
 
   &:hover {
@@ -313,11 +313,11 @@ footer a {
 
 /* menu */
 #menu {
-  background-color: #229ac8;
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-color: #23b371;
+  background-image: linear-gradient(to bottom, #2cc37d, #198754);
   background-repeat: repeat-x;
-  border: 1px solid #1f90bb;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border: 1px solid #198754;
+  border-color: #198754 #198754 #125c3a;
   min-height: 40px;
   border-radius: 4px;
 
@@ -343,7 +343,7 @@ footer a {
         a {
           &:hover {
             color: #ffffff;
-            background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+            background-image: linear-gradient(to bottom, #2cc37d, #198754);
           }
         }
       }
@@ -374,8 +374,8 @@ footer a {
     &:focus {
       text-decoration: none;
       color: #ffffff;
-      background-color: #229ac8;
-      background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+      background-color: #23b371;
+      background-image: linear-gradient(to bottom, #2cc37d, #198754);
       background-repeat: repeat-x;
     }
   }
@@ -584,9 +584,9 @@ footer {
 .btn-primary {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
-  background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+  background-image: linear-gradient(to bottom, #2cc37d, #198754);
   background-repeat: repeat-x;
-  border-color: #1f90bb #1f90bb #145e7a;
+  border-color: #198754 #198754 #125c3a;
 
   &:hover,
   &:focus,
@@ -670,7 +670,7 @@ footer {
 .btn-link {
   border-color: rgba(0, 0, 0, 0);
   cursor: pointer;
-  color: #23A1D1;
+  color: #2cc37d;
   border-radius: 0;
 
   &,
@@ -828,10 +828,10 @@ footer {
     font-stretch: expanded;
     color: #FFF;
     padding: 6px 12px;
-    background-color: #229ac8;
-    background-image: linear-gradient(to bottom, #23a1d1, #1f90bb);
+    background-color: #23b371;
+    background-image: linear-gradient(to bottom, #2cc37d, #198754);
     background-repeat: repeat-x;
-    border-color: #1f90bb #1f90bb #145e7a;
+    border-color: #198754 #198754 #125c3a;
   }
 }
 
